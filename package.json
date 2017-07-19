@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-layouts",
+  "name": "@emanueleperuffo/metalsmith-layouts",
   "author": "superwolff <superwolff@superwolff.nl> (http://superwolff.nl/)",
   "description": "A metalsmith plugin for layouts.",
   "repository": "git://github.com/superwolff/metalsmith-layouts.git",
